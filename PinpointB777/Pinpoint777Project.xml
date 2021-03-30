@@ -1,8 +1,0 @@
-<Project Version="2" Name="Pinpoint777Project" FolderName="Packages">
-	<OutputDirectory>.</OutputDirectory>
-	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
-	<Packages>
-		<Package>PackageDefinitions\pinpoint-777.xml</Package>
-	</Packages>
-</Project>
-
