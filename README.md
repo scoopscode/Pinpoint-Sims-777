@@ -16,15 +16,19 @@ As of right now, we currently cannot offer the PPS 777 for download as it is not
 ## FAQ
 
 Q: **When will our products release?**
+
 A: *Our content is always being made sure that it is perfected. That said, our content does not have a release date, but we do have estimates. However, you can monitor the progress in the GitHub and the Discord server.*
 
 Q: **I have a suggestion, where can I submit it?**
+
 A: *You can submit any suggestion in our Discord server*
 
 Q: **What 3D software do we use?**
+
 A: *Our development team uses Blender, a free and open source 3D modeling program.*
 
 Q: **Do you guys make anything other than aircraft?**
+
 A: *Yes we do, we are currently developing the UAAA scenery. We do not have a repository for you to view those models but you can monitor the progress in our Discord.*
 
 
