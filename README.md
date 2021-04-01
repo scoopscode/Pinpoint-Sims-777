@@ -33,4 +33,8 @@ Q: **Do you guys make anything other than aircraft?**
 
 A: *Yes we do, we are currently developing the UAAA scenery. We do not have a repository for you to view those models but you can monitor the progress in our Discord.*
 
+## Branding
+
+For logos and assets for our brand, check [here](https://github.com/PinpointSimulations/pps-branding/edit/main/README.mdhttps://github.com/PinpointSimulations/pps-branding/edit/main/README.md)
+
 
