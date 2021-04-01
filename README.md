@@ -1,12 +1,14 @@
+![PPSbanner](https://github.com/PinpointSimulations/pps-branding/blob/main/assets/logos/Pinpoint-Banner.PNG)
+
 # Pinpoint Simulations 777/PPS 777
 
 [![Discord](https://img.shields.io/discord/807148974745714709.png?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/MdtbBnVK9Y)
 
-**Welcome to the GitHub page of our freeware aircraft, the Boeing 777, for Microsoft Flight Simulator!**
+**Welcome to the GitHub repository of our freeware aircraft, the Boeing 777, for Microsoft Flight Simulator!**
 
 ## About
 
-In March of 2021, we annouced our freeware project called the PPS 777 (Pinpoint Simulations 777) which is based off the Boeing 777-300ER aircraft. We plan to make the entire 777 family after we make the debut of the 777-300ER. Additionally, our project is open-source, which means *you* can contribute to the project in a multitude of different ways.
+In March of 2021, we annouced our free project called the PPS 777 (Pinpoint Simulations 777) which is based off the Boeing 777-300ER aircraft. We plan to make the entire 777 family after we make the debut of the 777-300ER. Additionally, our project is open-source, which means *you* can contribute to the project in a multitude of different ways.
 
 ## Download
 
