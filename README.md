@@ -35,6 +35,6 @@ A: *Yes we do, we are currently developing the UAAA scenery. We do not have a re
 
 ## Branding
 
-For logos and assets for our brand, check [here](https://github.com/PinpointSimulations/pps-branding/edit/main/README.mdhttps://github.com/PinpointSimulations/pps-branding/edit/main/README.md)
+For logos and assets for our brand, check [here](https://github.com/PinpointSimulations/pps-branding)
 
 
